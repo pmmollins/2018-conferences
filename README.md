@@ -274,6 +274,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 18 May, 2018
     
+## [PAYMENTSfn](https://paymentsfn.com/)
+**Where:** Durham, NC
+
+**When:** 23 - 24 May, 2018
+
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
